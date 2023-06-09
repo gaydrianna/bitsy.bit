@@ -9,6 +9,6 @@
 7. tracery bots
 8. scalar
 9. [p5 poetics](https://gaydrianna.github.io/dhsi23/queenmissyindex.html)
-10. [bitsy](https://gaydrianna.github.io/dhsi23/BodyStoryv1.html)
+10. [bitsy](https://gaydrianna.github.io/dhsi23/dhsiproject.html)
 11. github
 
