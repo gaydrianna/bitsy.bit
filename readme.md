@@ -5,10 +5,10 @@
 3. physical hypertext
 4. [twine](https://gaydrianna.github.io/dhsi23/BodyStoryv1.html)
 5. cut up poetry
-6. tracery
+6. [tracery](https://gaydrianna.github.io/dhsi23/clickspiceindex.html)
 7. tracery bots
 8. scalar
-9. [p5 poetics](https://gaydrianna.github.io/dhsi23/clickspiceindex.html) 
+9. p5 poetics 
 10. [bitsy](https://gaydrianna.github.io/dhsi23/TheStrangeBodyStory.html)
 11. github
 
